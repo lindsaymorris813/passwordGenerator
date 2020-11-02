@@ -1,6 +1,8 @@
 # passwordGenerator
 random password generator. User inputs how many characters the password should be, whether they would like Upper case letters, lower case letters, special characters, and numbers, and a random password is generated for their use.
 
+https://gph.is/g/aKdR7O6
+
 ## Installation
 
 N/A
